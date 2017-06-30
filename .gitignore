@@ -2,3 +2,4 @@
 *.input
 *.class
 *.log
+/metastore_db/
