@@ -12,6 +12,6 @@
 
 Os presentes códigos e arquivos foram elaborados por alunos de ESW da UnB no âmbito da disciplina de FSD, ministrada pelo [Prof. Fernando William Cruz](https://fga.unb.br/fernando.cruz) no período 2017/1, como parte da entrega do projeto final.
 
-O documento de apresentação pode ser visualizado neste [link](#).
+O documento de apresentação pode ser visualizado neste [link](https://github.com/arkye/fsd_spark_hadoop/wiki/apresentacao.pdf).
 
-O relatório do projeto pode ser visualizado na [Wiki](wiki) deste repositório.
+O relatório do projeto pode ser visualizado na [Wiki](https://github.com/arkye/fsd_spark_hadoop/wiki) deste repositório.
