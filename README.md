@@ -4,9 +4,9 @@
 
 |Matrícula|Aluno|Github|
 |:-:|:-:|:-:|
-|14/0016813|Artur Bersan de Faria|[@arturbersan](/arturbersan)|
-|14/0041940|Iasmin Santos Mendes|[@mendesiasmin](/mendesiasmin)|
-|12/0122553|Jonathan Henrique Maia de Moraes|[@arkye](/arkye)|
+|14/0016813|Artur Bersan de Faria|[@arturbersan](https://github.com/arturbersan)|
+|14/0041940|Iasmin Santos Mendes|[@mendesiasmin](https://github.com/mendesiasmin)|
+|12/0122553|Jonathan Henrique Maia de Moraes|[@arkye](https://github.com/arkye)|
 
 ## Apresentação
 
